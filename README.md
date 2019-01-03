@@ -1,6 +1,6 @@
 # bloc
 
-A new Flutter project.
+Basic implementation of deafult flutter project using Bloc.
 
 ## Getting Started
 
